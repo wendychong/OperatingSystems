@@ -1,6 +1,6 @@
 # OperatingSystems
 
-Program: mergesort468.c
+Program: merge468.c
 
 Consider a mergesort program merge468.c that’s included with this homework.  The numbers to be sorted are N integers in an array “a[ ]”, and for simplicity it’s assumed that N is a power of 2.
 
